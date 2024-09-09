@@ -1,0 +1,13 @@
+{
+  "name": "dsa-programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort_0_1_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" node sort_0_1_2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
